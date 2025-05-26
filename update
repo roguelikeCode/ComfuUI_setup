@@ -1,3 +1,4 @@
 2025/05/25
 ・Pytorchをアンインストール→再インストール（CPU版をGPU版にするため）
 ・xformersをCUDA 12.8を指定してインストール
+・Comfyui-managerインストール
