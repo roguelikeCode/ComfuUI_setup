@@ -1,8 +1,15 @@
 2025/05/25
+ComfyUIへGitHubからインストール→
 ・Pytorchをアンインストール→再インストール（CPU版をGPU版にするため）
 ・xformersをCUDA 12.8を指定してインストール
 ・Comfyui-managerインストール
 2025/05/27
-・ComfyUIへインストール　→ComfyUI_essentials、ComfyUI-VideoHelperSuite、ComfyUI-KJNodes、rgthree-comfy
+ComfyUIへGitHubからインストール→
+・ComfyUI_essentials
+・ComfyUI-VideoHelperSuite
+・ComfyUI-KJNodes
+・rgthree-comfy
 2025/05/28
-・PixAIからComfyUIへインストール　→Street art style（LoRA）、Aüngir（Model）
+ComfyUIへPixAIからインストール→
+・Street art style（LoRA）
+・Aüngir（Model）
