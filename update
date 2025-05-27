@@ -3,4 +3,6 @@
 ・xformersをCUDA 12.8を指定してインストール
 ・Comfyui-managerインストール
 2025/05/27
-・ComfyUI_essentials、ComfyUI-VideoHelperSuite、ComfyUI-KJNodes、rgthree-comfyインストール
+・ComfyUIへインストール　→ComfyUI_essentials、ComfyUI-VideoHelperSuite、ComfyUI-KJNodes、rgthree-comfy
+2025/05/28
+・PixAIからComfyUIへインストール　→Street art style（LoRA）、Aüngir（Model）
