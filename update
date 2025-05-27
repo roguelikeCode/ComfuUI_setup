@@ -2,5 +2,5 @@
 ・Pytorchをアンインストール→再インストール（CPU版をGPU版にするため）
 ・xformersをCUDA 12.8を指定してインストール
 ・Comfyui-managerインストール
-2025/057
+2025/05/27
 ・ComfyUI_essentials、ComfyUI-VideoHelperSuite、ComfyUI-KJNodes、rgthree-comfyインストール
