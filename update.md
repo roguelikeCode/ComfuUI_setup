@@ -1,18 +1,18 @@
-2025/05/25
+# 2025/05/25
 ComfyUI: Install custom nodes from GitHub, install xformers
-・Pytorchをアンインストール→再インストール（CPU版をGPU版にするため）
-・xformersをCUDA 12.8を指定してインストール
-・Comfyui-managerインストール
-2025/05/27
+- Pytorchをアンインストール→再インストール（CPU版をGPU版にするため）
+- xformersをCUDA 12.8を指定してインストール
+- Comfyui-managerインストール
+# 2025/05/27
 ComfyUI: Install custom nodes from GitHub
-・ComfyUI_essentials
-・ComfyUI-VideoHelperSuite
-・ComfyUI-KJNodes
-・rgthree-comfy
-2025/05/28
+- ComfyUI_essentials
+- ComfyUI-VideoHelperSuite
+- ComfyUI-KJNodes
+- rgthree-comfy
+# 2025/05/28
 ComfyUI: Install LoRA, Model from PixAI
-・Street art style（LoRA）
-・Aüngir（Model）
-2025/05/29
+- Street art style（LoRA）
+- Aüngir（Model）
+# 2025/05/29
 ComfyUI: Install custom nodes from GitHub
-・ComfyUI_MagicClothing
+- ComfyUI_MagicClothing
