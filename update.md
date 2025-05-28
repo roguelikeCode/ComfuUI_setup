@@ -14,5 +14,6 @@ ComfyUI: Install LoRA, Model from PixAI
 - Street art style（LoRA）
 - Aüngir（Model）
 # 2025/05/29
-ComfyUI: Install custom nodes from GitHub
+ComfyUI: Install custom nodes from GitHub, Install Cython
 - ComfyUI_MagicClothing
+- Cython
