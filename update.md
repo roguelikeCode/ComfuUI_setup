@@ -1,4 +1,10 @@
-# 2025/05/29
+# 2025/05/30 
+ComfyUI: Changed from portable version to ZIP version
+- Create a virtual environment
+- Reinstall everything
+- conda環境でinsightfaceをインストールする
+
+# 2025/05/29 
 ComfyUI: Install custom nodes from GitHub, Install Cython, Install Visual Studio C++ BuiInstall 
 - Cython
 - ComfyUI_MagicClothing
