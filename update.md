@@ -1,3 +1,7 @@
+# 2025/05/31
+- minicondaのインストール
+- 2025/05/30の続き
+
 # 2025/05/30 
 ComfyUI: Changed from portable version to ZIP version
 - conda環境で仮想環境を構築する
