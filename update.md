@@ -1,5 +1,10 @@
+# 2025/06/02
+- wslでcondaとpipを実行予定
+
 # 2025/06/01
 - wslでLinux環境で全て作り直す（やり直し）
+- wsl上のLinuxディストリビューション（ubuntuターミナル）にanaconda（miniconda3）をインストール
+- 仮想環境の設定（comfyui_wsl_env）
 
 # 2025/05/31
 - minicondaのインストール
