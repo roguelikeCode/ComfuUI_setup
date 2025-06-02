@@ -3,7 +3,9 @@
 
 # 2025/06/02
 - WSL (Ubuntu) 環境でMambaをインストール
-- 使用するライブラリをmamba（condaより高速）とcondaでインストール
+- ComfyUIのセットアップ
+    - 使用するライブラリをmamba（condaより高速）とcondaでインストール
+    - mambaにないものを選別して、pipでインストール
 
 # 2025/06/01
 - wslでLinux環境で全て作り直す（やり直し）
