@@ -1,5 +1,5 @@
 # 2025/06/03
-- pipで-r requirements.txt
+- ComfyUI_MagicClothingのrequirements.txtの中で、conda-forgeのものを選別する -> mamba(or conda)で1つずつインストールしていく
 
 # 2025/06/02
 - WSL (Ubuntu) 環境でMambaをインストール
