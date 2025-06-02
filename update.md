@@ -1,5 +1,9 @@
+# 2025/06/03
+- pipで-r requirements.txt
+
 # 2025/06/02
-- wslでcondaとpipを実行予定
+- WSL (Ubuntu) 環境でMambaをインストール
+- 使用するライブラリをmamba（condaより高速）とcondaでインストール
 
 # 2025/06/01
 - wslでLinux環境で全て作り直す（やり直し）
