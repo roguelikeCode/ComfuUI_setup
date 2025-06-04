@@ -1,4 +1,9 @@
+# 2025/06/05
+- Poetryのインストール（依存関係管理）
+- ComfyUI_MagicClothingのrequirements.txtの中で、conda-forgeのものを選別する -> mamba(or conda)で1つずつインストールしていく
+
 # 2025/06/04
+- Poetryのインストール（依存関係管理）
 - ComfyUI_MagicClothingのrequirements.txtの中で、conda-forgeのものを選別する -> mamba(or conda)で1つずつインストールしていく
 
 # 2025/06/03
