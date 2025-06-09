@@ -1,3 +1,6 @@
+# 2025/06/10
+- mssをmambaでインストールを検証中
+
 # 2025/06/08
 - ComfyUIおよびcoustom_nodesのrequirements.txtを全て、mamba・conda・pipに整理完了
 
