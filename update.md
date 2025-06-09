@@ -1,3 +1,6 @@
+# 2025/06/08
+- ComfyUIおよびcoustom_nodesのrequirements.txtを全て、mamba・conda・pipに整理完了
+
 # 2025/06/05
 - Poetryのインストール（依存関係管理）
 - ComfyUI_MagicClothingのrequirements.txtの中で、conda-forgeのものを選別する -> mamba(or conda)で1つずつインストールしていく
