@@ -1,3 +1,6 @@
+# 2025/06/11 ~ 2025/06/14
+- ComfyUI_MagicClothingの__init__とnodesのコードの理解
+
 # 2025/06/10
 - mssをmambaでインストールを検証中
 
