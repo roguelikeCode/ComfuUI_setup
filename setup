@@ -1,3 +1,11 @@
+# 最初に忘れずに
+# LinuxのパスはWindowsと逆であるため
+# 必要であれば（cd "$(wslpath 'C:\Users\yoshi\OneDrive\Desktop\ComfyUI-master')"）
 
+conda activate comfyui_wsl_poetry_py310_cu118_env
+
+# 現在アクティブなConda環境のPython実行ファイルのパスを連携させる
+cd ~/projects/comfyui-managed-env
+poetry env use $(which python)
 
 poetry add "torch==2.7.0" --source="pytorch_cu118"
