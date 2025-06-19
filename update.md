@@ -1,5 +1,9 @@
-# 2025/06/15
+# 202506/19
+- ComfyUI, ComfyUI_essentials, ComfyUI_MagicClothingについてpoetry.tomlに記述完了
+
+# 2025/06/15 ~ 2025/06/18
 - 依存関係を解決中
+- poetryのセットアップ
 
 # 2025/06/11 ~ 2025/06/14
 - ComfyUI_MagicClothingの__init__とnodesのコードの理解
