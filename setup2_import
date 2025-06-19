@@ -1,0 +1,9 @@
+# 基礎となるpytorch・xformersをインストール -> mambaでインストール
+# tritonはすでにインストール済みになっている
+# mambaでpytorch・xformersをインストールした際、依存関係としてtorchtritonが一緒にインストールされた可能性あり
+# torchtritonの中にtritonのコア機能が含まれており、実質的にOpenAI Tritonのバージョン3.1.0が利用可能な状態になっている
+
+
+poetry add "torch==2.7.0" --source="pytorch_cu118"
+poetry add "torchvision==0.22.0" --source="pytorch_cu118"
+poetry add "torchaudio==2.7.0" --source="pytorch_cu118"
