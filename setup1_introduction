@@ -25,7 +25,3 @@ conda activate comfyui_wsl_poetry_py310_cu118_env
 # 現在アクティブなConda環境のPython実行ファイルのパスを連携させる
 cd ~/projects/comfyui-managed-env
 poetry env use $(which python)
-
-poetry add "torch==2.7.0" --source="pytorch_cu118"
-poetry add "torchvision==0.22.0" --source="pytorch_cu118"
-poetry add "torchaudio==2.7.0" --source="pytorch_cu118"
