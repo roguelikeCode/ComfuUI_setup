@@ -22,8 +22,3 @@ sudo apt install build-essential -y
 ```
 sudo apt install cmake -y
 ```
-
-# 起動方法
-```
-poetry run python "$(wslpath 'C:\Users\yoshi\OneDrive\Desktop\ComfyUI-master\main.py')"
-```
