@@ -1,5 +1,8 @@
-# 202506/19
-- ComfyUI, ComfyUI_essentials, ComfyUI_MagicClothingについてpoetry.tomlに記述完了
+# 2025/06/20
+- ComfyUI-KJNodes, comfyui-manager, ComfyUI-VideoHelperSuite, rgthree-comfyについて、poetry.tomlに記述完了
+
+# 2025/06/19
+- ComfyUI, ComfyUI_essentials, ComfyUI_MagicClothingについて、poetry.tomlに記述完了
 
 # 2025/06/15 ~ 2025/06/18
 - 依存関係を解決中
