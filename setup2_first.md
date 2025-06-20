@@ -16,3 +16,8 @@ conda activate comfyui_wsl_poetry_py310_cu118_env
 cd ~/projects/comfyui-managed-env
 poetry env use $(which python)
 ```
+
+# 起動方法
+```
+poetry run python "$(wslpath 'C:\Users\yoshi\OneDrive\Desktop\ComfyUI-master\main.py')"
+```
