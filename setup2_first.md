@@ -17,7 +17,11 @@ cd ~/projects/comfyui-managed-env
 poetry env use $(which python)
 ```
 
-- 起動方法
+- 起動方法（Windows）
 ```
 poetry run python "$(wslpath 'C:\Users\yoshi\OneDrive\Desktop\ComfyUI-master\main.py')"
+```
+- 起動方法（Linux）
+```
+poetry run python ~/ComfyUI-master/main.py
 ```
