@@ -25,3 +25,19 @@ poetry run python "$(wslpath 'C:\Users\yoshi\OneDrive\Desktop\ComfyUI-master\mai
 ```
 poetry run python ~/ComfyUI-master/main.py
 ```
+
+- poetry更新方法
+```
+cd ~/projects/comfyui-managed-env
+poetry lock
+poetry export -f requirements.txt --output requirements-lock.txt --without-hashes
+cp requirements-lock.txt ../comfyui-docker/
+```
+
+- Docker起動方法
+```
+cd ~/projects/comfyui-docker
+docker build -t comfyui-docker-image .
+docker run -d -p 8188:8188 --gpus all --name comfyui-container comfyui-docker-image
+
+```
