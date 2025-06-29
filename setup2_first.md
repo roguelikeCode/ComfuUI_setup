@@ -39,5 +39,4 @@ cp requirements-lock.txt ../comfyui-docker/
 cd ~/projects/comfyui-docker
 docker build -t comfyui-docker-image .
 docker run -d -p 8188:8188 --gpus all --name comfyui-container comfyui-docker-image
-
 ```
